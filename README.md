@@ -4,7 +4,7 @@
 
 <p align="center">
      <td>
-        <h3>Sou estudante de Engenharia da Computação. Trabalho no gerenciamento de redes e servidores e ultimamente estou me aprofundando na parte de Cibersegurança juntamente com Análise de Dados. . 
+        <h3>Sou estudante de Engenharia da Computação. Trabalho no gerenciamento de redes e servidores e ultimamente estou me aprofundando na parte de Cibersegurança juntamente com Análise de Dados.
       </td>
       <td>
       </td>
